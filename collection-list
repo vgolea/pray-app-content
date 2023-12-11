@@ -1,0 +1,28 @@
+{
+    "collections": [
+        {
+            "id": "652d77f6f4adbed519b34114",
+            "displayName": "Partes Oración",
+            "singularName": "Partes Oración",
+            "slug": "partes-oracion",
+            "createdOn": "2023-10-16T17:50:46.632Z",
+            "lastUpdated": "2023-10-16T17:54:33.153Z"
+        },
+        {
+            "id": "652d7ba8bddc8fa4916cc460",
+            "displayName": "Alabanzas Categorias",
+            "singularName": "Alabanzas Categoria",
+            "slug": "alabanzas-categorias",
+            "createdOn": "2023-10-16T18:06:32.260Z",
+            "lastUpdated": "2023-10-16T18:06:32.445Z"
+        },
+        {
+            "id": "652d7e7c2fbf8b6b576fc130",
+            "displayName": "Salmos",
+            "singularName": "Salmo",
+            "slug": "salmos",
+            "createdOn": "2023-10-16T18:18:36.735Z",
+            "lastUpdated": "2023-10-16T18:18:36.892Z"
+        }
+    ]
+}
