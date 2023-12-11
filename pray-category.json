@@ -1,0 +1,35 @@
+{
+    "items": [
+        {
+            "id": "652d7cc8f1ff52fd310c8c1f",
+            "cmsLocaleId": null,
+            "lastPublished": "2023-12-10T21:28:33.454Z",
+            "lastUpdated": "2023-10-16T18:11:20.809Z",
+            "createdOn": "2023-10-16T18:11:20.809Z",
+            "isArchived": false,
+            "isDraft": false,
+            "fieldData": {
+                "name": "Alabanzas actuales",
+                "slug": "alabanzas-actuales"
+            }
+        },
+        {
+            "id": "652d7c0d950dc8ed275d42da",
+            "cmsLocaleId": null,
+            "lastPublished": "2023-12-10T21:28:33.454Z",
+            "lastUpdated": "2023-10-16T18:08:13.396Z",
+            "createdOn": "2023-10-16T18:08:13.396Z",
+            "isArchived": false,
+            "isDraft": false,
+            "fieldData": {
+                "name": "Salmos",
+                "slug": "salmos"
+            }
+        }
+    ],
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "total": 2
+    }
+}
