@@ -4,25 +4,25 @@
           "id":"1234567",
           "name":"Bunny",
           "url": "prayers-media/bunny/bunny.mp4",
-          "thumbnailUrl": "/prayers-media/bunny/bunny.jpg"
+          "thumbnailUrl": "prayers-media/bunny/bunny.jpg"
         },
         {
           "id":"45673487389",
           "name":"Christmas Craiova",
-          "url": "https://github.com/vgolea/pray-app-content/blob/main/prayers-media/christmas-craiova/christmas-craiova.mp4",
-          "thumbnailUrl": "https://github.com/vgolea/pray-app-content/blob/3063781b46a95fae6f0e8e41cb81a5052c7e5164/prayers-media/christmas-craiova/christmas-craiova.png"
+          "url": "prayers-media/christmas-craiova/christmas-craiova.mp4",
+          "thumbnailUrl": "prayers-media/christmas-craiova/christmas-craiova.png"
         },
         {
           "id":"90238738947",
           "name":"Sintel",
-          "url": "https://github.com/vgolea/pray-app-content/blob/main/prayers-media/sintel/sintel.mp4",
+          "url": "prayers-media/sintel/sintel.mp4",
           "thumbnailUrl": "prayers-media/sintel/sintel.jpg"
         },
         {
           "id":"09284359023",
           "name":"Tears of steel",
-          "url": "https://github.com/vgolea/pray-app-content/blob/main/prayers-media/tears-of-steel/tears-of-steel.mp4",
-          "thumbnailUrl": "https://github.com/vgolea/pray-app-content/blob/main/prayers-media/tears-of-steel/tears-of-steel.jpg"
+          "url": "prayers-media/tears-of-steel/tears-of-steel.mp4",
+          "thumbnailUrl": "prayers-media/tears-of-steel/tears-of-steel.jpg"
         }
     ]
 }
